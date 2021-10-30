@@ -1,0 +1,2 @@
+GET /v2/connections/invalid_connection_id
+Host: connect.ifttt.com
